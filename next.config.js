@@ -28,7 +28,7 @@ module.exports = phase =>
 			return [
 				{
 					source: '/github',
-					destination: 'https://github.com/BuildByMom/Birth',
+					destination: 'https://github.com/BuiltByMom/LookMom',
 					permanent: true
 				}
 			];
